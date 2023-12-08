@@ -1,0 +1,27 @@
+               ╷                                                                                                                   
+  Filename     │ clamouring.zip                                                                                                    
+  Filesize     │ 385552 bytes                                                                                                      
+  Filetype     │ application/zip                                                                                                   
+  Sightings    │ First-Seen: 2023-02-28 21:50:51                                                                                   
+               │ Last-Seen:  None                                                                                                  
+               │ Sightings:  None                                                                                                  
+  Hashes       │ MD5:        a6c04015085e6ab05b73171b7debdb23                                                                      
+               │ SHA1:       7117fcee603c8085bab74bf52929562b407ed579                                                              
+               │ SHA256:     5fb714dfc9206ab4d188bf3c0cb35c44fbf5246f863c1efd5fdaecaa0891bd7a                                      
+               │ SHA3-384:   facb2afee7ef61f1c2efffd1551d4f174e982c9bd3fd70e6a4bddc5b529874ede690a19bf4546d2701a0fe02d8265f3e      
+               │ Icon Dhash: None                                                                                                  
+  Fuzzy Hashes │ Ssdeep:     6144:xggNqBSq/GZQb4N+IraKVDu/hhwkIbStcqaOC3NbPN1HNF7eZF9DiHRydoOtzL:5vZmdI6/hh3IbSt/aOC1N1HNpqTDiH2P  
+               │ Tlsh:       T1C38423AF5E354C8A0834BBD9965A4D57918FDB1626782D2DB0DEB723007278F790E832                              
+               │                                                                                                                   
+  Signature    │ Quakbot                                                                                                           
+  Tags         │ password: 764, Qakbot, Qbot, Quakbot, zip                                                                         
+               ╵                                                                                                                   
+               ╷            ╷               ╷             
+  CERT-PL_MWDB │ Undetected │ YOROI_YOMI    │ Legit File  
+               │            │               │             
+               │            │               │             
+  InQuest      │ Undetected │ ReversingLabs │ Undetected  
+               │            │               │             
+  Spamhaus_HBL │ suspicious │ FileScan-IO   │ Undetected  
+               │            │               │             
+               ╵            ╵               ╵             
