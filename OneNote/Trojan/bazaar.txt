@@ -1,0 +1,27 @@
+               ╷                                                                                                               
+  Filename     │ Shipping Report.one                                                                                           
+  Filesize     │ 64552 bytes                                                                                                   
+  Filetype     │ application/x-tar                                                                                             
+  Sightings    │ First-Seen: 2023-02-09 07:45:33                                                                               
+               │ Last-Seen:  None                                                                                              
+               │ Sightings:  None                                                                                              
+  Hashes       │ MD5:        1ae2d31799e4db8168681b5aab0e813d                                                                  
+               │ SHA1:       cc05d9349026d668e34f659e4de57719b6e75baa                                                          
+               │ SHA256:     29d154eafeb75a7059fc164c70ae746c6f3eb83d29853b3856d0aa8f8df0adde                                  
+               │ SHA3-384:   120f6a689601b38ca960cc29cb668c1471dfe7303fbfdfec2a18c2ba0d639455b8f19155ee43c20eed181630fb48722e  
+               │ Icon Dhash: None                                                                                              
+  Fuzzy Hashes │ Ssdeep:     1536:IL6Re1INMzCe2RmVd/7Z5IjtRyh9x/UfEgJ8:IKNMWe2RmVdzIBR+x/UffJ8                                 
+               │ Tlsh:       T17A53E03076865175C0F9BCF5C687A521450A9BA302221BCFB9A7254FFDE5F80DA432EE                          
+               │                                                                                                               
+  Tags         │ one                                                                                                           
+               ╵                                                                                                               
+               ╷            ╷               ╷                       
+  CERT-PL_MWDB │ Undetected │ YOROI_YOMI    │ malicious             
+               │            │               │                       
+               │            │               │                       
+  InQuest      │ malicious  │ ReversingLabs │ Win32.Trojan.Malnote  
+               │            │               │ suspicious            
+               │            │               │                       
+  Spamhaus_HBL │ suspicious │ FileScan-IO   │ malicious             
+               │            │               │                       
+               ╵            ╵               ╵                       
