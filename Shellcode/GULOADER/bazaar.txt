@@ -1,0 +1,43 @@
+                ╷                                                                                                                     
+  Filename      │ 9b40ae8c6dc8f35af3535a7b30c51d80                                                                                    
+  Filesize      │ 1694856 bytes                                                                                                       
+  Filetype      │ application/x-dosexec                                                                                               
+  Sightings     │ First-Seen: 2023-10-17 12:05:00                                                                                     
+                │ Last-Seen:  2023-10-17 13:38:58                                                                                     
+                │ Sightings:  None                                                                                                    
+  Hashes        │ MD5:        9b40ae8c6dc8f35af3535a7b30c51d80                                                                        
+                │ SHA1:       6526c781106b303b7f21861e8bcc255d4f356143                                                                
+                │ SHA256:     6ae7089aa6beaa09b1c3aa3ecf28a884d8ca84f780aab39902223721493b1f99                                        
+                │ SHA3-384:   c0ff99cb442e5731876da1e804ee745059f63b240b616076d7e3aa4061c01e3f429360805a949e4ff76c19dd8755a082        
+                │ Icon Dhash: b2a89c96a2cada72                                                                                        
+  Import Hashes │ Imphash:    4f67aeda01a0484282e8c59006b0b352                                                                        
+                │ Gimphash:   None                                                                                                    
+                │ Telfhash:   None                                                                                                    
+  Fuzzy Hashes  │ Ssdeep:     24576:ZU2aMOTAxrYHURbf4xDEgdRYTYMkfDv6Ti5yz1ZtUK7Yq4VnRmhPxomtv76Nu7qs:ZOfTAGhygdDDiThz1vJ7YqYURF+IIhs  
+                │ Tlsh:       T11E75337228A8D5BFD94646328DBADEFC81F1EB3156911F477005C8DE2AEB441C9834EB                                
+                │                                                                                                                     
+  Signature     │ GuLoader                                                                                                            
+  Tags          │ 32, exe, GuLoader, signed                                                                                           
+                ╵                                                                                                                     
+                ╷                       ╷              ╷             
+  ANY.RUN       │ No family             │ CERT-PL_MWDB │ Undetected  
+                │ malicious             │              │             
+                │                       │              │             
+  YOROI_YOMI    │ malicious             │ vxCube       │ Undetected  
+                │                       │              │             
+  Intezer       │ No family             │ InQuest      │ malicious   
+                │ Undetected            │              │             
+                │                       │              │             
+  CAPE          │ Undetected            │ Triage       │ remcos      
+                │                       │              │ malicious   
+                │                       │              │             
+  ReversingLabs │ Win32.Trojan.Guloader │ Spamhaus_HBL │ suspicious  
+                │ malicious             │              │             
+                │                       │              │             
+  UnpacMe       │ Undetected            │ VMRay        │ Remcos      
+                │                       │              │ malicious   
+                │                       │              │             
+  FileScan-IO   │ suspicious            │              │             
+                │                       │              │             
+                ╵                       ╵              ╵             
+Downloading samples... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:00
