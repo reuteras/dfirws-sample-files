@@ -40,4 +40,3 @@
   FileScan-IO   │ suspicious            │              │             
                 │                       │              │             
                 ╵                       ╵              ╵             
-Downloading samples... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:00
