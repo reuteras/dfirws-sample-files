@@ -4,6 +4,6 @@ From [https://bazaar.abuse.ch/sample/29d154eafeb75a7059fc164c70ae746c6f3eb83d298
 
 Classified as Unknown at Malware Bazaar.
 
-## Analyse results in dfirws
+## Analyse in dfirws
 
-TODO
+Look at this [page](https://github.com/reuteras/dfirws/wiki/Investigate-OneNote-file) in the wiki.
