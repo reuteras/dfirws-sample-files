@@ -1,0 +1,27 @@
+               ╷                                                                                                               
+  Filename     │ Payment  Receipt INV21-0162.pdf                                                                               
+  Filesize     │ 223854 bytes                                                                                                  
+  Filetype     │ application/pdf                                                                                               
+  Sightings    │ First-Seen: 2022-02-16 09:57:58                                                                               
+               │ Last-Seen:  None                                                                                              
+               │ Sightings:  None                                                                                              
+  Hashes       │ MD5:        e61774a6905a18c503304ee2085c1806                                                                  
+               │ SHA1:       61eda5d78fde5930443be5280d9033c757c2b476                                                          
+               │ SHA256:     54c3c13b6bd236bab7971c6635866b4ca335727e6f96f66491edabae3cbc65cd                                  
+               │ SHA3-384:   0c0f4609e6d46ef55b426e3b7c9ff1253a10656f3de0ed1e99b7bff2a3177ac0968b750efaad910164c0a30d0efeefcb  
+               │ Icon Dhash: None                                                                                              
+  Fuzzy Hashes │ Ssdeep:     3072:RL436VTpPlkWp9EBLncF1v9D37YVe76nx0D0xL+jmr88h+QG9PmCvb7cqE:1hTpdkPBLni1D76nWtQvG9PVvvcqE     
+               │ Tlsh:       T19224233FD2F21F0B8CC6A52139DF6D7B0BCE9967E19290512815DA0FB108ED9D15A374                          
+               │                                                                                                               
+  Tags         │ AgentTesla, embedded, pdf, xls                                                                                
+               ╵                                                                                                               
+                ╷                           ╷             ╷            
+  CERT-PL_MWDB  │ Undetected                │ YOROI_YOMI  │ malicious  
+                │                           │             │            
+                │                           │             │            
+  InQuest       │ Undetected                │ DocGuard    │ malicious  
+                │                           │             │            
+  ReversingLabs │ Document-PDF.Trojan.Tnega │ FileScan-IO │ malicious  
+                │ malicious                 │             │            
+                │                           │             │            
+                ╵                           ╵             ╵            
