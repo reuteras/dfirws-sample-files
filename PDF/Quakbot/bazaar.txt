@@ -1,0 +1,30 @@
+               ╷                                                                                                               
+  Filename     │ AgreementCancellation-1337-May30.pdf                                                                          
+  Filesize     │ 121810 bytes                                                                                                  
+  Filetype     │ application/pdf                                                                                               
+  Sightings    │ First-Seen: 2023-05-30 15:37:42                                                                               
+               │ Last-Seen:  None                                                                                              
+               │ Sightings:  None                                                                                              
+  Hashes       │ MD5:        abc068503faa367c801508f98808f4f5                                                                  
+               │ SHA1:       42324b937a39c816e124d4236c60c929a5830c69                                                          
+               │ SHA256:     d0265161d0ed290ff81ff99e4571de9b709b357c9e663ad2b4519b68497705f5                                  
+               │ SHA3-384:   5ca6a2929175546b478b0d024f268dd54ec88e4b4a53c6c0b43ad402a622701bec1e3190409fb23b65702254e5828ebb  
+               │ Icon Dhash: None                                                                                              
+  Fuzzy Hashes │ Ssdeep:     1536:3csDXcsIcswqcs+pcsLl3csUb2A/FRLYm3R03MSLVMXLHtSR1GWBZD7p8VbLi6Ne:jg/LLOMeVoHtSXGml6niYe      
+               │ Tlsh:       T168C36C9CA88CD588C979EBF2F752F4CAA50D733B5E8A94B671AF0FD61243C15E943801                          
+               │                                                                                                               
+  Signature    │ Quakbot                                                                                                       
+  Tags         │ obama265, pdf, Qakbot, Quakbot                                                                                
+               ╵                                                                                                               
+                ╷                               ╷              ╷             
+  CERT-PL_MWDB  │ Undetected                    │ YOROI_YOMI   │ Qakbot      
+                │                               │              │             
+                │                               │              │             
+  InQuest       │ suspicious                    │ DocGuard     │ Undetected  
+                │                               │              │             
+  ReversingLabs │ Document-PDF.Trojan.Heuristic │ Spamhaus_HBL │ suspicious  
+                │ malicious                     │              │             
+                │                               │              │             
+  FileScan-IO   │ Undetected                    │              │             
+                │                               │              │             
+                ╵                               ╵              ╵             

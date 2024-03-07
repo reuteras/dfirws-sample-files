@@ -1,0 +1,30 @@
+               ╷                                                                                                               
+  Filename     │ 85c93cc5259ec43aab31b1505292ba4c.bin                                                                          
+  Filesize     │ 60435 bytes                                                                                                   
+  Filetype     │ application/pdf                                                                                               
+  Sightings    │ First-Seen: 2023-05-18 13:59:06                                                                               
+               │ Last-Seen:  None                                                                                              
+               │ Sightings:  None                                                                                              
+  Hashes       │ MD5:        85c93cc5259ec43aab31b1505292ba4c                                                                  
+               │ SHA1:       ac94bac5207360991be8ace9f926fbe1cf68e3c9                                                          
+               │ SHA256:     304a28d5e9010331c8f183b5932d0420410cf5e749f84cdd02d9992abd397285                                  
+               │ SHA3-384:   237131b80d231952dddfe28d1df5ba1b36e7be432a133410763b29ff30e2e8fcf60b099e37f3eb2730286456b7597120  
+               │ Icon Dhash: None                                                                                              
+  Fuzzy Hashes │ Ssdeep:     1536:TLcUj5PyUY5UWHjwKvkbLXx2gJoteRWglkUsh:TQUF6UY5FjlvW9LpQMZsh                                  
+               │ Tlsh:       T1AF43F125BA646C9CF9421995866FFF6C13BE3429F1C168C1382C390E85C55CDFA13AF6                          
+               │                                                                                                               
+  Signature    │ Metasploit                                                                                                    
+  Tags         │ Metasploit                                                                                                    
+               ╵                                                                                                               
+                ╷                            ╷              ╷             
+  CERT-PL_MWDB  │ Undetected                 │ YOROI_YOMI   │ Swrort      
+                │                            │              │             
+                │                            │              │             
+  InQuest       │ malicious                  │ DocGuard     │ Undetected  
+                │                            │              │             
+  ReversingLabs │ Win32.Backdoor.Meterpreter │ Spamhaus_HBL │ suspicious  
+                │ malicious                  │              │             
+                │                            │              │             
+  FileScan-IO   │ Undetected                 │              │             
+                │                            │              │             
+                ╵                            ╵              ╵             
