@@ -1,0 +1,41 @@
+                ╷                                                                                                               
+  Filename      │ 077ff206b53acdad21c3f683707f8e3d.exe                                                                          
+  Filesize      │ 2994688 bytes                                                                                                 
+  Filetype      │ application/x-dosexec                                                                                         
+  Sightings     │ First-Seen: 2023-08-30 15:30:19                                                                               
+                │ Last-Seen:  None                                                                                              
+                │ Sightings:  None                                                                                              
+  Hashes        │ MD5:        077ff206b53acdad21c3f683707f8e3d                                                                  
+                │ SHA1:       c9149c80255b62a7ad35d147cda20b8b147b9259                                                          
+                │ SHA256:     e778ba2e16b6117b847ed753904e11954bec87178df0898be59c77b1eaf383f8                                  
+                │ SHA3-384:   4527e5bb5cc1409cb6900750ec47901c148f2df4552fbaa929097eee34c7489d17522ea3833de84a9610de45c661da59  
+                │ Icon Dhash: None                                                                                              
+  Import Hashes │ Imphash:    81c67e4d3e58ae14934c409fdef012b6                                                                  
+                │ Gimphash:   None                                                                                              
+                │ Telfhash:   None                                                                                              
+  Fuzzy Hashes  │ Ssdeep:     3072:ASkKpCo2R84SVoy7Dj1IEUtk8Z+6//h0mZ13Ml5ndR97NCO485/gCOMzOC4wQ/tC:PBpvCnm7yEUtSc9eXeY         
+                │ Tlsh:       T110D5642F56E38706F4F27675AF5A4853EB2FB4C33C2F9C2AA0D29019D8E42518499F17                          
+                │                                                                                                               
+  Signature     │ CobaltStrike                                                                                                  
+  Tags          │ CobaltStrike, exe                                                                                             
+                ╵                                                                                                               
+                ╷                      ╷              ╷               
+  ANY.RUN       │ meterpreter          │ CERT-PL_MWDB │ Undetected    
+                │ malicious            │              │               
+                │                      │              │               
+  YOROI_YOMI    │ malicious            │ vxCube       │ Undetected    
+                │                      │              │               
+  Intezer       │ No family            │ InQuest      │ malicious     
+                │ Undetected           │              │               
+                │                      │              │               
+  CAPE          │ CobaltStrikeBeacon   │ Triage       │ cobaltstrike  
+                │                      │              │ malicious     
+                │                      │              │               
+  ReversingLabs │ Win32.Trojan.Generic │ Spamhaus_HBL │ malicious     
+                │ malicious            │              │               
+                │                      │              │               
+  UnpacMe       │ Undetected           │ FileScan-IO  │ malicious     
+                │                      │              │               
+                │                      │              │               
+                ╵                      ╵              ╵               
+Downloading samples... ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:01
