@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# shellcheck disable=SC1090
+source ~/Documents/workspace/virtualenvs/malwarebazaar/bin/activate
+bazaar query hash 6d6134adfdf16c8ed9513aba40845b15bd314e085ef1d6bd20040afd42e36e40
+bazaar query hash 2b15e09b98bc2835a4430c4560d3f5b25011141c9efa4331f66e9a707e2a23c0
+bazaar query hash d3997576cb911671279f9723b1c9505a572e1c931d39fe6e579b47ed58582731
+deactivate
