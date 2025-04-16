@@ -8,6 +8,12 @@ Classified as
 - GRAPELOADER (ppcore.dll) in  d931078b63d94726d4be5dc1a00324275b53b935b77d3eed1712461f0c180164.7z
 - WINELOADER (vmtools.dll	) in adfe0ef4ef181c4b19437100153e9fe7aed119f5049e5489a36692757460b9f8.7z
 
+Files are from Malware bazaar:
+
+- [https://bazaar.abuse.ch/sample/653db3b63bb0e8c2db675cd047b737cefebb1c955bd99e7a93899e2144d34358/](https://bazaar.abuse.ch/sample/653db3b63bb0e8c2db675cd047b737cefebb1c955bd99e7a93899e2144d34358/)
+- [https://bazaar.abuse.ch/sample/d931078b63d94726d4be5dc1a00324275b53b935b77d3eed1712461f0c180164/](https://bazaar.abuse.ch/sample/d931078b63d94726d4be5dc1a00324275b53b935b77d3eed1712461f0c180164/)
+- [https://bazaar.abuse.ch/sample/adfe0ef4ef181c4b19437100153e9fe7aed119f5049e5489a36692757460b9f8/](https://bazaar.abuse.ch/sample/adfe0ef4ef181c4b19437100153e9fe7aed119f5049e5489a36692757460b9f8/)
+
 ```
 The full 256-byte RC4 key embedded inside WINELOADER and used for string decryption, unpacking its core module, and encrypting/decrypting information exchanged between the malware and the C2 server.
 
